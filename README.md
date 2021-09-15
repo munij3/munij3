@@ -1,4 +1,4 @@
-## **Hi there** 😺
+## **Hi there** **:)**
 - 📚 I’m currently studying for a degree in Computer Science at Tecnologico de Monterrey (ITESM).
 - 👾 I'm looking froward to specialize in Computer Graphics & Videogames.
 - 🔍 I’m currently learning advanced topics using C++ and C# (the latter on my own).
