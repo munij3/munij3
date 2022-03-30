@@ -1,4 +1,4 @@
-## **Hi there** **
+## **Hi there**
 ◦ I’m currently studying Computer Science at Tecnologico de Monterrey (ITESM).
 ◦ I´m looking froward to a minor / specialization in Computer Graphics & Videogames.
 ◦ I´m learning advanced C++ topics with Unreal Engine 5.
